@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rohityadav22470, But friends also call me AKHI.
+- 👋 Hi, I’m Rohit Yadav, But friends also call me AKHI.
 - 👀 I’m interested in Data Science and Development
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Machine learning projects and Backend development with Django 
 - 📫 How to reach me :
       email: rohityadav6767123@gmail.com
       LinkedIn: https://www.linkedin.com/in/rohit-25m
